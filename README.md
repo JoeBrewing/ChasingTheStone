@@ -9,4 +9,7 @@
 - [x] Parkour obstacle (optional falling path)
 - [x] Falling tilted path obstacle 
 - [x] Narrow frozen path obstacle 
-- [x] Frozen bridge obstacle 
+- [x] Narrow land bridge obstacle 
+- [x] Frozen bridge obstacle
+- [x] Checkpoint system
+- [x] Timer system
