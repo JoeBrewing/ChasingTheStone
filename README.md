@@ -62,8 +62,8 @@
 - [ ] Ambient wind sound
 - [ ] Ambient shaking sound
 - [ ] Earn coins at checkpoints and finish
-- [ ] Group walkable surface parts into Chapter1Surfaces
-- [ ] Chapter1Surfaces script that interacts with Revive module
+- [ ] Group walkable surface parts into Chapter2Surfaces
+- [ ] Chapter2Surfaces script that interacts with Revive module
 - [ ] Turn obstacle part red when touched to indicate which part killed you
 - [ ] Immune to ice ability logic
 - [ ] Feather weight ability logic
@@ -86,8 +86,8 @@
 - [ ] Ambient wind sound
 - [ ] Ambient shaking sound
 - [ ] Earn coins at checkpoints and finish
-- [ ] Group walkable surface parts into Chapter1Surfaces
-- [ ] Chapter1Surfaces script that interacts with Revive module
+- [ ] Group walkable surface parts into Chapter3Surfaces
+- [ ] Chapter3Surfaces script that interacts with Revive module
 - [ ] Turn obstacle part red when touched to indicate which part killed you
 - [ ] Immune to ice ability logic
 - [ ] Feather weight ability logic
