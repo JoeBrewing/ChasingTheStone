@@ -4,7 +4,9 @@
 - [x] Data Store module
 - [ ] Remote function seam for data store interaction
 - [ ] Revive module
+- [ ] Next checkpoint module
 - [ ] Add Revive to GUI when in Chapter
+- [ ] Add Skip to GUI when in Chapter
 - [ ] Store
 - [ ] Coin multiplier 
 
