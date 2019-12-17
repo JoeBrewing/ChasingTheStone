@@ -9,9 +9,16 @@
 - [ ] Coin multiplier 
 
 ## Lobby
+- [ ] Music
 - [ ] Chapter 1 Leaderboard 
-- [ ] Elements of Chapter 1 Design
-- [ ] Chapter 1 Store
+- [ ] Chapter 1 Top 3 Podium
+- [ ] Chapter 2 Leaderboard
+- [ ] Chapter 2 Top 3 Podium
+- [ ] Chapter 3 Leaderboard
+- [ ] Chapter 3 Top 3 Podium
+- [ ] Elements of Chapter 1-3 Design
+- [ ] Chapter 1-3 Store
+- [ ] Daily Reward
 
 ## Chapter 1
 - [x] Bridge obstacle 
@@ -26,6 +33,10 @@
 - [x] Frozen bridge obstacle
 - [x] Checkpoint system
 - [x] Timer system
+- [ ] Chapter Music
+- [ ] Ambient drip sound
+- [ ] Ambient wind sound
+- [ ] Ambient shaking sound
 - [ ] Earn coins at checkpoints and finish
 - [ ] Group walkable surface parts into Chapter1Surfaces
 - [ ] Chapter1Surfaces script that interacts with Revive module
@@ -39,6 +50,44 @@
 - [ ] Falling Frozen ball obstacle
 - [ ] Falling icicle obstacle with more icicles
 - [ ] Parkour with thawing platforms
-- [ ] 
+- [ ] Automatically tilt side to side platform obstacle
+- [ ] Automatically tilt narrow path obstacle
+- [ ] Icicles popping out of floor obstacle
+- [ ] Basic parkour platform obstacle
+- [ ] ??? Obstacle
+- [ ] Checkpoint system
+- [ ] Timer system
+- [ ] Chapter Music
+- [ ] Ambient drip sound
+- [ ] Ambient wind sound
+- [ ] Ambient shaking sound
+- [ ] Earn coins at checkpoints and finish
+- [ ] Group walkable surface parts into Chapter1Surfaces
+- [ ] Chapter1Surfaces script that interacts with Revive module
+- [ ] Turn obstacle part red when touched to indicate which part killed you
+- [ ] Immune to ice ability logic
+- [ ] Feather weight ability logic
 
 ## Chapter 3
+- [ ] ??? Obstacle
+- [ ] ??? Obstacle
+- [ ] ??? Obstacle
+- [ ] ??? Obstacle
+- [ ] ??? Obstacle
+- [ ] ??? Obstacle
+- [ ] ??? Obstacle
+- [ ] ??? Obstacle
+- [ ] ??? Obstacle
+- [ ] ??? Obstacle
+- [ ] Checkpoint system
+- [ ] Timer system
+- [ ] Chapter Music
+- [ ] Ambient drip sound
+- [ ] Ambient wind sound
+- [ ] Ambient shaking sound
+- [ ] Earn coins at checkpoints and finish
+- [ ] Group walkable surface parts into Chapter1Surfaces
+- [ ] Chapter1Surfaces script that interacts with Revive module
+- [ ] Turn obstacle part red when touched to indicate which part killed you
+- [ ] Immune to ice ability logic
+- [ ] Feather weight ability logic
