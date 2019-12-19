@@ -2,7 +2,7 @@
 
 ## Main Game
 - [x] Data Store module
-- [ ] Remote function seam for data store interaction
+- [x] Remote function seam for data store interaction
 - [ ] Revive module
 - [ ] Next checkpoint module
 - [ ] Add Revive to GUI when in Chapter
