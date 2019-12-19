@@ -35,7 +35,7 @@
 - [x] Frozen bridge obstacle
 - [x] Checkpoint system
 - [x] Timer system
-- [ ] Chapter Music
+- [x] Chapter Music
 - [ ] Ambient drip sound
 - [ ] Ambient wind sound
 - [ ] Ambient shaking sound
