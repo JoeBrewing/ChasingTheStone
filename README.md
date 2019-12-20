@@ -18,8 +18,12 @@
 - [ ] Chapter 2 Top 3 Podium
 - [ ] Chapter 3 Leaderboard
 - [ ] Chapter 3 Top 3 Podium
-- [ ] Elements of Chapter 1-3 Design
-- [ ] Chapter 1-3 Store
+- [ ] Elements of Chapter 1 Design
+- [ ] Elements of Chapter 2 Design
+- [ ] Elements of Chapter 3 Design
+- [ ] Chapter 1 Store
+- [ ] Chapter 2 Store
+- [ ] Chapter 3 Store
 - [ ] Daily Reward
 
 ## Chapter 1
@@ -45,6 +49,7 @@
 - [x] Turn obstacle part red when touched to indicate which part killed you
 - [ ] Immune to ice ability logic
 - [ ] Feather weight ability logic
+- [x] Portal back to lobby
 
 ## Chapter 2
 - [ ] Frozen Bridge obstacle with more frozen planks
