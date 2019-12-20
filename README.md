@@ -36,9 +36,9 @@
 - [x] Checkpoint system
 - [x] Timer system
 - [x] Chapter Music
-- [ ] Ambient drip sound
-- [ ] Ambient wind sound
-- [ ] Ambient shaking sound
+- [x] Ambient drip sound
+- [x] Ambient wind sound
+- [x] Ambient shaking sound
 - [ ] Earn coins at checkpoints and finish
 - [ ] Group walkable surface parts into Chapter1Surfaces
 - [ ] Chapter1Surfaces script that interacts with Revive module
