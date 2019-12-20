@@ -18,7 +18,7 @@
 - [ ] Chapter 2 Top 3 Podium
 - [ ] Chapter 3 Leaderboard
 - [ ] Chapter 3 Top 3 Podium
-- [ ] Elements of Chapter 1-3 Design
+- [x] Elements of Chapter 1-3 Design
 - [ ] Chapter 1-3 Store
 - [ ] Daily Reward
 
