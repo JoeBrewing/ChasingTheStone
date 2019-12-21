@@ -3,10 +3,10 @@
 ## Main Game
 - [x] Data Store module
 - [x] Remote function seam for data store interaction
-- [ ] Revive module
-- [ ] Next checkpoint module
-- [ ] Add Revive to GUI when in Chapter
-- [ ] Add Skip to GUI when in Chapter
+- [x] Revive module
+- [x] Next checkpoint module
+- [x] Add Revive to GUI when in Chapter
+- [x] Add Skip to GUI when in Chapter
 - [ ] Store
 - [ ] Coin multiplier 
 
@@ -40,8 +40,8 @@
 - [x] Ambient wind sound
 - [x] Ambient shaking sound
 - [x] Earn coins at checkpoints and finish
-- [ ] Group walkable surface parts into Chapter1Surfaces
-- [ ] Chapter1Surfaces script that interacts with Revive module
+- [x] Group walkable surface parts into Chapter1Surfaces
+- [x] Chapter1Surfaces script that interacts with Revive module
 - [x] Turn obstacle part red when touched to indicate which part killed you
 - [ ] Immune to ice ability logic
 - [ ] Feather weight ability logic
