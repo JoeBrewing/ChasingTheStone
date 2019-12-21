@@ -39,7 +39,7 @@
 - [x] Ambient drip sound
 - [x] Ambient wind sound
 - [x] Ambient shaking sound
-- [ ] Earn coins at checkpoints and finish
+- [x] Earn coins at checkpoints and finish
 - [ ] Group walkable surface parts into Chapter1Surfaces
 - [ ] Chapter1Surfaces script that interacts with Revive module
 - [x] Turn obstacle part red when touched to indicate which part killed you
