@@ -1,7 +1,7 @@
 # Chasing The Stone
 
 ## Main Game
-- [x] Data Store module
+- [ ] Data Store module (Need to revist to use DataStore2 so this is half done)
 - [x] Remote function seam for data store interaction
 - [x] Revive module
 - [x] Next checkpoint module
