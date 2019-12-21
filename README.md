@@ -11,7 +11,7 @@
 - [ ] Coin multiplier 
 
 ## Lobby
-- [ ] Music
+- [x] Music
 - [ ] Chapter 1 Leaderboard 
 - [ ] Chapter 1 Top 3 Podium
 - [ ] Chapter 2 Leaderboard
