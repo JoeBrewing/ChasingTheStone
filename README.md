@@ -45,7 +45,7 @@
 - [x] Group walkable surface parts into Chapter1Surfaces
 - [x] Chapter1Surfaces script that interacts with Revive module
 - [x] Turn obstacle part red when touched to indicate which part killed you
-- [ ] Immune to ice ability logic
+- [x] Immune to ice ability logic
 - [ ] Feather weight ability logic
 - [x] Portal back to lobby
 - [x] Move all parts into Chapter 1 folder
