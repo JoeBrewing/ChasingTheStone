@@ -21,6 +21,8 @@
 - [x] Elements of Chapter 1-3 Design
 - [ ] Chapter 1-3 Store
 - [ ] Daily Reward
+- [x] Move all parts into Lobby folder
+- [x] Modify scripts to use new Lobby foldeer
 
 ## Chapter 1
 - [x] Bridge obstacle 
@@ -46,6 +48,8 @@
 - [ ] Immune to ice ability logic
 - [ ] Feather weight ability logic
 - [x] Portal back to lobby
+- [x] Move all parts into Chapter 1 folder
+- [x] Modify scripts to use new Chapter 1 folder
 
 ## Chapter 2
 - [ ] Frozen Bridge obstacle with more frozen planks
