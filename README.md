@@ -52,7 +52,7 @@
 - [x] Modify scripts to use new Chapter 1 folder
 
 ## Chapter 2
-- [ ] Frozen Bridge obstacle with more frozen planks
+- [x] Frozen Bridge obstacle with more frozen planks
 - [ ] Frozen wall dart obstacle
 - [ ] Falling Frozen ball obstacle
 - [ ] Falling icicle obstacle with more icicles
