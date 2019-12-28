@@ -46,7 +46,7 @@
 - [x] Chapter1Surfaces script that interacts with Revive module
 - [x] Turn obstacle part red when touched to indicate which part killed you
 - [x] Immune to ice ability logic
-- [ ] Feather weight ability logic
+- [x] Feather weight ability logic
 - [x] Portal back to lobby
 - [x] Move all parts into Chapter 1 folder
 - [x] Modify scripts to use new Chapter 1 folder
