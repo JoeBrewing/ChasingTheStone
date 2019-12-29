@@ -54,7 +54,7 @@
 ## Chapter 2
 - [x] Frozen Bridge obstacle with more frozen planks
 - [ ] Frozen wall dart obstacle
-- [ ] Falling Frozen ball obstacle
+- [x] Falling Frozen ball obstacle
 - [ ] Falling icicle obstacle with more icicles
 - [ ] Parkour with thawing platforms
 - [ ] Automatically tilt side to side platform obstacle
@@ -62,18 +62,18 @@
 - [ ] Icicles popping out of floor obstacle
 - [ ] Basic parkour platform obstacle
 - [ ] ??? Obstacle
-- [ ] Checkpoint system
-- [ ] Timer system
+- [x] Checkpoint system
+- [x] Timer system
 - [ ] Chapter Music
 - [ ] Ambient drip sound
 - [ ] Ambient wind sound
 - [ ] Ambient shaking sound
-- [ ] Earn coins at checkpoints and finish
-- [ ] Group walkable surface parts into Chapter2Surfaces
+- [x] Earn coins at checkpoints and finish
+- [x] Group walkable surface parts into Chapter2Surfaces
 - [ ] Chapter2Surfaces script that interacts with Revive module
 - [ ] Turn obstacle part red when touched to indicate which part killed you
-- [ ] Immune to ice ability logic
-- [ ] Feather weight ability logic
+- [x] Immune to ice ability logic
+- [x] Feather weight ability logic
 
 ## Chapter 3
 - [ ] ??? Obstacle
