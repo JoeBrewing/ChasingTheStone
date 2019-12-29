@@ -41,6 +41,7 @@
 - [x] Ambient drip sound
 - [x] Ambient wind sound
 - [x] Ambient shaking sound
+- [x] Ambient icicle crash sound
 - [x] Earn coins at checkpoints and finish
 - [x] Group walkable surface parts into Chapter1Surfaces
 - [x] Chapter1Surfaces script that interacts with Revive module
@@ -66,8 +67,9 @@
 - [x] Timer system
 - [ ] Chapter Music
 - [ ] Ambient drip sound
-- [ ] Ambient wind sound
-- [ ] Ambient shaking sound
+- [ ] Ambient boulder drop sound
+- [ ] Ambient boulder rolling sound
+- [ ] Ambient icicle crash sound
 - [x] Earn coins at checkpoints and finish
 - [x] Group walkable surface parts into Chapter2Surfaces
 - [ ] Chapter2Surfaces script that interacts with Revive module
