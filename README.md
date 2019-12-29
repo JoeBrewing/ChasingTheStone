@@ -56,7 +56,7 @@
 - [x] Frozen Bridge obstacle with more frozen planks
 - [ ] Frozen wall dart obstacle
 - [x] Falling Frozen ball obstacle
-- [ ] Falling icicle obstacle with more icicles
+- [x] Falling icicle obstacle with more icicles
 - [x] Parkour with thawing platforms
 - [ ] Automatically tilt side to side platform obstacle
 - [ ] Automatically tilt narrow path obstacle
