@@ -54,15 +54,15 @@
 
 ## Chapter 2
 - [x] Frozen Bridge obstacle with more frozen planks
-- [ ] Frozen wall dart obstacle
+- [ ] Wall projectile obstacle
 - [x] Falling Frozen ball obstacle
 - [x] Falling icicle obstacle with more icicles
 - [x] Parkour with thawing platforms
-- [ ] Automatically tilt side to side platform obstacle
-- [ ] Automatically tilt narrow path obstacle
+- [x] Staircase with projectile obstacle
+- [ ] Narrow path with ice obstacle
 - [ ] Icicles popping out of floor obstacle
 - [ ] Basic parkour platform obstacle
-- [ ] ??? Obstacle
+- [ ] Chomper obstacle
 - [x] Checkpoint system
 - [x] Timer system
 - [ ] Chapter Music
