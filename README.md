@@ -59,7 +59,7 @@
 - [x] Falling icicle obstacle with more icicles
 - [x] Parkour with thawing platforms
 - [x] Staircase with projectile obstacle
-- [ ] Narrow path with ice obstacle
+- [x] Narrow path with ice obstacle
 - [ ] Icicles popping out of floor obstacle
 - [ ] Basic parkour platform obstacle
 - [ ] Chomper obstacle
