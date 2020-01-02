@@ -54,7 +54,7 @@
 
 ## Chapter 2
 - [x] Frozen Bridge obstacle with more frozen planks
-- [ ] Wall projectile obstacle
+- [x] Wall projectile obstacle
 - [x] Falling Frozen ball obstacle
 - [x] Falling icicle obstacle with more icicles
 - [x] Parkour with thawing platforms
