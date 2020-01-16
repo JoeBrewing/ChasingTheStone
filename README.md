@@ -7,6 +7,9 @@
 - [ ] Add ChapterXCheckpoint1 part
 - [ ] Add teleporter script
 - [ ] Add start timer script
+- [ ] Add skip button and script
+- [ ] Add timer script
+- [ ] Add checkpoints script
 
 ## Main Game
 - [ ] Data Store module (Need to revist to use DataStore2 so this is half done)
