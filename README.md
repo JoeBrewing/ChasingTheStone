@@ -1,5 +1,13 @@
 # Chasing The Stone
 
+## New Chapter Steps
+## (Follow this whenever starting a new chapter)
+- [ ] Create first surface
+- [ ] Group first surface as ChapterXSurfaces
+- [ ] Add ChapterXCheckpoint1 part
+- [ ] Add teleporter script
+- [ ] Add start timer script
+
 ## Main Game
 - [ ] Data Store module (Need to revist to use DataStore2 so this is half done)
 - [x] Remote function seam for data store interaction
@@ -60,20 +68,20 @@
 - [x] Parkour with thawing platforms
 - [x] Staircase with projectile obstacle
 - [x] Narrow path with ice obstacle
-- [ ] Icicles popping out of floor obstacle
-- [ ] Basic parkour platform obstacle
-- [ ] Chomper obstacle
+- [x] Ice wall obstacle
+- [x] Parkour with ice obstacles
+- [x] Chomper obstacle
 - [x] Checkpoint system
 - [x] Timer system
 - [ ] Chapter Music
 - [ ] Ambient drip sound
 - [ ] Ambient boulder drop sound
 - [ ] Ambient boulder rolling sound
-- [ ] Ambient icicle crash sound
+- [x] Ambient icicle crash sound
 - [x] Earn coins at checkpoints and finish
 - [x] Group walkable surface parts into Chapter2Surfaces
 - [ ] Chapter2Surfaces script that interacts with Revive module
-- [ ] Turn obstacle part red when touched to indicate which part killed you
+- [x] Turn obstacle part red when touched to indicate which part killed you
 - [x] Immune to ice ability logic
 - [x] Feather weight ability logic
 
