@@ -89,16 +89,16 @@
 - [x] Feather weight ability logic
 
 ## Chapter 3
-- [ ] ??? Obstacle
-- [ ] ??? Obstacle
-- [ ] ??? Obstacle
-- [ ] ??? Obstacle
-- [ ] ??? Obstacle
-- [ ] ??? Obstacle
-- [ ] ??? Obstacle
-- [ ] ??? Obstacle
-- [ ] ??? Obstacle
-- [ ] ??? Obstacle
+- [x] Narrow frozen path
+- [ ] Staircase with projectile obstacle
+- [ ] Falling tilted path obstacle
+- [ ] Wall projectile obstacle
+- [ ] Parkour with thawing platforms
+- [ ] Narrow land bridge obstacle
+- [ ] Ice wall obstacle
+- [ ] Bridge obstacle
+- [ ] Falling Frozen ball obstacle
+- [ ] Hope in the ice wall obstacle 
 - [ ] Checkpoint system
 - [ ] Timer system
 - [ ] Chapter Music
