@@ -98,16 +98,16 @@
 - [ ] Ice wall obstacle
 - [ ] Bridge obstacle
 - [ ] Falling Frozen ball obstacle
-- [ ] Hope in the ice wall obstacle 
-- [ ] Checkpoint system
-- [ ] Timer system
+- [ ] Hole in the ice wall obstacle 
+- [x] Checkpoint system
+- [x] Timer system
 - [ ] Chapter Music
 - [ ] Ambient drip sound
 - [ ] Ambient wind sound
 - [ ] Ambient shaking sound
-- [ ] Earn coins at checkpoints and finish
-- [ ] Group walkable surface parts into Chapter3Surfaces
+- [x] Earn coins at checkpoints and finish
+- [x] Group walkable surface parts into Chapter3Surfaces
 - [ ] Chapter3Surfaces script that interacts with Revive module
-- [ ] Turn obstacle part red when touched to indicate which part killed you
-- [ ] Immune to ice ability logic
-- [ ] Feather weight ability logic
+- [x] Turn obstacle part red when touched to indicate which part killed you
+- [x] Immune to ice ability logic
+- [x] Feather weight ability logic
