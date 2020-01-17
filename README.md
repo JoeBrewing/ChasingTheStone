@@ -90,7 +90,7 @@
 
 ## Chapter 3
 - [x] Narrow frozen path
-- [ ] Staircase with projectile obstacle
+- [x] Staircase with projectile obstacle
 - [ ] Falling tilted path obstacle
 - [ ] Wall projectile obstacle
 - [ ] Parkour with thawing platforms
