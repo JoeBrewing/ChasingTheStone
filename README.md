@@ -92,7 +92,7 @@
 - [x] Narrow frozen path
 - [x] Staircase with projectile obstacle
 - [x] Falling tilted path obstacle
-- [ ] Wall projectile obstacle
+- [x] Wall projectile obstacle
 - [ ] Parkour with thawing platforms
 - [ ] Narrow land bridge obstacle
 - [ ] Ice wall obstacle
