@@ -93,8 +93,8 @@
 - [x] Staircase with projectile obstacle
 - [x] Falling tilted path obstacle
 - [x] Wall projectile obstacle
-- [ ] Parkour with thawing platforms
-- [ ] Narrow land bridge obstacle
+- [x] Parkour with thawing platforms
+- [x] Narrow land bridge obstacle
 - [ ] Ice wall obstacle
 - [ ] Bridge obstacle
 - [ ] Falling Frozen ball obstacle
