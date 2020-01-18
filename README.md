@@ -95,7 +95,7 @@
 - [x] Wall projectile obstacle
 - [x] Parkour with thawing platforms
 - [x] Narrow land bridge obstacle
-- [ ] Ice wall obstacle
+- [x] Ice wall obstacle
 - [ ] Bridge obstacle
 - [ ] Falling Frozen ball obstacle
 - [ ] Hole in the ice wall obstacle 
