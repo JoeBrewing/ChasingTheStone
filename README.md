@@ -97,7 +97,7 @@
 - [x] Narrow land bridge obstacle
 - [x] Ice wall obstacle
 - [x] Bridge obstacle with wall projectiles
-- [ ] Falling Frozen ball obstacle
+- [x] Falling Frozen ball obstacle
 - [ ] Hole in the ice wall obstacle 
 - [x] Checkpoint system
 - [x] Timer system
