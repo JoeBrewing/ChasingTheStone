@@ -98,7 +98,7 @@
 - [x] Ice wall obstacle
 - [x] Bridge obstacle with wall projectiles
 - [x] Falling Frozen ball obstacle
-- [ ] Hole in the ice wall obstacle 
+- [x] Hole in the ice wall obstacle 
 - [x] Checkpoint system
 - [x] Timer system
 - [ ] Chapter Music
